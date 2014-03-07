@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN/"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+
+<title>GURPS Solar System Generator Output</title>
+<head> 
+ <b><h3 style="color:#ff0000;">GURPS Solar System Generator Output </h3></b> 
+</head>
+<body> 
+ <table border="1">
+star = 0
+Star Name: Tyyre	Star type:OIa
+
+<tr>
+<td>name</td>
+<td>size</td>
+<td>gravity</td>
+<td>tilt</td>
+<td>composition</td>
+<td>atmosphere</td>
+no planets exist in this system
